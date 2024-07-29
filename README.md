@@ -1,38 +1,44 @@
-![header_Tetiana_Golinska](https://github.com/TatianaG-ka/TatianaG-ka/assets/52859818/53893ade-387e-43b7-8b34-2b4d37db0e5d)
+![header_Tetiana_Golinska](https://github.com/user-attachments/assets/20619f0b-c13f-4b41-80e3-bf47251edd61)
 
-### ![about Tetiana Golinska](https://github.com/TatianaG-ka/TatianaG-ka/assets/52859818/a97c0a91-e752-4bde-a180-c029423ea8dc) About me
+## About me
+
+- Build automated testing solutions.
+- Experimenting with Playwright's testing frameworks and tools.
+- Always looking for bugs to squash and systems to optimise.
+
+## My Skills
+
+- Test frameworks (Playwright + TypeScript)
+- Automation Testing
+- Continuous integration/deployment (GitHub Actions, Azure Pipelines)
+- Bug hunting and tracking
+- Ability to test and validate APIs using tools such as Postman
+- Understanding of test design techniques to create effective and comprehensive test cases
+- Contribute to an agile environment by working with cross-functional teams (Scrum)
+
+## Technologies
+
+- [Playwright Test](https://playwright.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Postman](https://www.postman.com/product/what-is-postman/)
+- [Swagger](https://swagger.io/tools/swaggerhub/features/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://docs.github.com/en)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+<p align="center">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,node.js,playwright,typescript,postman,githubactions,git,github,eslint,prettier" />
+  </a>
+
+## Current projects
+Check out the repo! 
+- [Automation tests project with Playwright + TypeScript framework. ](https://github.com/TatianaG-ka/Automation-tests-project-with-Playwright) 
+- Example of manual API tests in Postman with collection - **in progress**
+  
+## Find me here:
+[![linkedin](https://simpleskill.icons.workers.dev/svg?i=linkedin)](https://www.linkedin.com/in/tetiana-golinska/) [![My Skill](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:tatiana.golinska@gmail.com)
 
 
-```javascript
-
-let personal = Personal(name: "Tetiana Golinska",
-                        mainTechStack: "Rest Assured and Selenium Webdriver with Java",
-                        description: "I have 4 years of experience as a software tester,
-                        4 of them as manual tester, including 1 year of experience in automation testing.
-						I've always been interested in different areas, but for the last 2 years 
-						I've been passionate most of all about automation testing. ")
-
-var contact = Contact(email: "tatiana.golinska@gmail.com",
-                      url: "https://www.linkedin.com/in/tetiana-golinska/ ",
-                      location: "Warsaw, Poland"
-                      )
-
-let automationTester = AutomationTester(personal: personal, contact: contact)
-
-struct AutomationTester {
-    let personal: Personal;
-    let contact: Contact
-}
-
-struct Personal {
-    let name: String;
-    let mainTechStack: String;
-    let description: String
-}
-
-struct Contact {
-    let email: String;
-    let url: String;
-    let location: String
-}
-```
