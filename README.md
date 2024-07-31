@@ -1,10 +1,12 @@
-![header_Tetiana_Golinska](https://github.com/user-attachments/assets/20619f0b-c13f-4b41-80e3-bf47251edd61)
+![zdjęcie do github](https://github.com/user-attachments/assets/aa3d9c5b-349b-4ddc-9c2e-d1f8a1527d54)
+
 
 ## About me
 
 - Build automated testing solutions.
-- Experimenting with Playwright's testing frameworks and tools.
-- Always looking for bugs to squash and systems to optimise.
+- Experiment with Playwright's testing frameworks and tools.
+- Always look for bugs to squash and systems to optimize.
+
 
 ## My Skills
 
