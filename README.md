@@ -38,4 +38,4 @@ I build workflow automations that connect business systems, AI agents, and commu
 
 ---
 
-📧 tatiana.golinska@gmail.com · [LinkedIn](https://www.linkedin.com/in/tatiana-golinska/)
+📧 tatiana.golinska@gmail.com · [LinkedIn](https://www.linkedin.com/in/tetiana-golinska/)
