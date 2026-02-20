@@ -19,6 +19,21 @@ I build workflow automations that connect business systems, AI agents, and commu
 - Agile/Scrum cross-functional team collaboration
 - Bug hunting, test design techniques, and systems optimization
 
+
+## 🚀 Portfolio
+
+> **AI & Automation projects:**
+
+Click here to view the portfolio of **3 projects** ⮕ [![n8n Portfolio](https://img.shields.io/badge/🤖_n8n_Automation_Portfolio-EA4B71?style=for-the-badge)](https://github.com/TatianaG-ka/n8n-automation-portfolio)
+
+**4 project:** can be seen here ⮕ [RAG_Chatbot_Corporate_Knowledge_Assistant](https://github.com/TatianaG-ka/RAG_Chatbot_Corporate_Knowledge_Assistant) -> **LangChain, FAISS, HuggingFace Embeddings, ChatGroq**
+
+
+> **Test Automation projects:**
+- [Automation tests with Playwright + TypeScript](https://github.com/TatianaG-ka/Automation-tests-project-with-Playwright)
+- [API testing using Rest-Assured Java Framework](https://github.com/TatianaG-ka/restassured-framework)
+  
+
 ## 🛠️ Tech Stack
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -44,18 +59,6 @@ I build workflow automations that connect business systems, AI agents, and commu
 | Supabase |  |  |
 | ElevenLabs (Voice AI) |  |  |
 
-## 🚀 Portfolio
-
-> **AI & Automation projects:**
-
-Click here to view the portfolio of **3 projects** ⮕ [![n8n Portfolio](https://img.shields.io/badge/🤖_n8n_Automation_Portfolio-EA4B71?style=for-the-badge)](https://github.com/TatianaG-ka/n8n-automation-portfolio)
-
-**4 project:** can be seen here ⮕ [RAG_Chatbot_Corporate_Knowledge_Assistant](https://github.com/TatianaG-ka/RAG_Chatbot_Corporate_Knowledge_Assistant) -> **LangChain, FAISS, HuggingFace Embeddings, ChatGroq**
-
-
-> **Test Automation projects:**
-- [Automation tests with Playwright + TypeScript](https://github.com/TatianaG-ka/Automation-tests-project-with-Playwright)
-- [API testing using Rest-Assured Java Framework](https://github.com/TatianaG-ka/restassured-framework)
 
 ## 📧 Find me here
 
