@@ -46,16 +46,17 @@ I build workflow automations that connect business systems, AI agents, and commu
 
 ## 🚀 Portfolio
 
-**AI & Automation projects:**
+> **AI & Automation projects:**
 
-Click here to view the portfolio ⮕ [![n8n Portfolio](https://img.shields.io/badge/🤖_n8n_Automation_Portfolio-EA4B71?style=for-the-badge)](https://github.com/TatianaG-ka/n8n-automation-portfolio)
+Click here to view the portfolio of **3 projects** ⮕ [![n8n Portfolio](https://img.shields.io/badge/🤖_n8n_Automation_Portfolio-EA4B71?style=for-the-badge)](https://github.com/TatianaG-ka/n8n-automation-portfolio)
 
-**3 projects:** AI Marketing Agent, RAG E-commerce Bot, Sales Pipeline
+**4 project:** can be seen here ⮕ [RAG_Chatbot_Corporate_Knowledge_Assistant](https://github.com/TatianaG-ka/RAG_Chatbot_Corporate_Knowledge_Assistant) -> **LangChain, FAISS, HuggingFace Embeddings, ChatGroq**
 
-**Test Automation projects:**
+
+> **Test Automation projects:**
 - [Automation tests with Playwright + TypeScript](https://github.com/TatianaG-ka/Automation-tests-project-with-Playwright)
 - [API testing using Rest-Assured Java Framework](https://github.com/TatianaG-ka/restassured-framework)
 
 ## 📧 Find me here
 
-📧 tatiana.golinska@gmail.com · [LinkedIn](https://www.linkedin.com/in/tatiana-golinska/)
+📧 tatiana.golinska@gmail.com · [LinkedIn](https://www.linkedin.com/in/tetiana-golinska/)
